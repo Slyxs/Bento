@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Amyxy',
+	name: 'Slyx',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '931332361a0431815e7ab9468e431037', // Write here your API Key
-	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
