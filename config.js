@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Slyx',
+	name: 'Slyxs',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
