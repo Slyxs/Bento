@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Liked Songs',
+					link: 'https://open.spotify.com/playlist/3eZC0dSeU35rUDzZTFh97O?si=b62cdc4443c14a55',
 				},
 				{
 					name: 'Classic',
